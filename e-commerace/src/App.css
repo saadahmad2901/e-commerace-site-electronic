@@ -1,0 +1,24 @@
+*{
+  padding: none;
+  margin: none
+  ;
+}
+
+.header{
+  background-color: rgb(228, 236, 241);
+  height: 33px;
+  position: relative;
+  align-items: center;
+  width: 100%;
+justify-content: center;
+border-radius: 12px;
+
+}
+.footer{
+bottom: 1px;
+  background-color: rgb(228, 238, 247);
+}
+.center{
+  height: 100vh;
+  background-color: rgb(241, 238, 238);
+}
